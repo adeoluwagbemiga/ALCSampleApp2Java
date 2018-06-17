@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ALCSampleApp2Java</string>
+
+    <string name="radio_option_a">Option A</string>
+    <string name="radio_option_b">Option B</string>
+    <string name="radio_option_c">Option C</string>
+    <string name="radio_option_d">Option D</string>
+    <string name="btn_show_option">Show Option</string>
 </resources>
